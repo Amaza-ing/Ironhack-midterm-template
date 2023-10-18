@@ -1,4 +1,4 @@
-# Ironhack-midterm-template
+# Ironhack midterm project template
 
 This is a template to make your work in the midterm project easier.
 In this template you will find a spring project containing two entities: "Collection", representing a collection of books. And "Book", representing a book object.
