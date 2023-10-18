@@ -22,3 +22,8 @@
    the logic from the controller methods
 
 10) Create some controller tests (just one per request type would be fine)
+
+11) Don't forget about creating the README.md documentation with the UML diagrams!
+
+
+## Good luck everyone! :)
