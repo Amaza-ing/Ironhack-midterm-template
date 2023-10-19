@@ -11,6 +11,7 @@ public class Book {
 
     //    An embedded property (or a relationship with an entity with inheritance)
     @Embedded
+    private Author author;
 
     // ...
     // Other properties...
