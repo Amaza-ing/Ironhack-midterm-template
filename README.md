@@ -3,7 +3,7 @@
 This is a template to make your work in the midterm project easier.
 In this template you will find a spring project containing two entities: "Collection", representing a collection of books. And "Book", representing a book object.
 There is a relationship ManyToOne between them, because many books can be inside a collection.
-The Book entity also has an embedded property, wich is the Author, you can find the Author class inside the model package as well.
+The Book entity also has an embedded property, which is the Author, you can find the Author class inside the model package as well.
 Both entities have repositories, testing files, controllers and services.
 
 You should first strike to complete something like this before you add any bonus or extra content.
